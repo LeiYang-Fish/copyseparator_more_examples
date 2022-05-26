@@ -1,5 +1,3 @@
-# copyseparator_more_examples
-
 1. Run the following script first
 
    copy_separate("tetraploid_EGR2B.fasta", 2,300)
