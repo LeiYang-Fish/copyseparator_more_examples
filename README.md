@@ -8,6 +8,6 @@
    copy_assemble("tetraploid_EGR2B_combined_consensus_2copies_overlap225.txt",2)
 
 
-3. run the following script to get a plot "Distance between neighboring variable sites VS. read length.pdf"
+3. run the following script to get a histogram "Distance between neighboring variable sites VS. read length.pdf"
 
    copy_validate("All_final_copies.fasta",2,300)
