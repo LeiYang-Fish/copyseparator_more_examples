@@ -5,4 +5,4 @@
 
 2. Run the following script to get a histogram "Distance between neighboring variable sites VS. read length.pdf"
 
-   copy_validate("All_final_copies.fasta",2,300)
+   copy_validate("tetraploid_EGR2B_assembled_2_gene_copies.txt",2,300)
